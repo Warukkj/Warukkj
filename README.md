@@ -11,4 +11,4 @@
 - **Python** - Linguagem versátil para scripts e automações
 
 ## Contato
-- 📧 E-mail: [seuemail@example.com](yansprovieri@gmail.com)
+- 📧 E-mail: [yansprovieri@gmail.com](Emailto)
